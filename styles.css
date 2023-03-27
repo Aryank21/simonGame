@@ -24,6 +24,18 @@ body {
   width: 200px;
   border: 10px solid black;
   border-radius: 20%;
+ 
+}
+.start{
+  margin: 52px; 
+    right: 43%;
+    bottom:-6%;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color: white;
 }
 
 .game-over {

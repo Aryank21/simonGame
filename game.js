@@ -15,6 +15,16 @@ $(document).keypress(function () {
     started=true;
   }
 });
+$(".start").click(function () {
+  
+  if (!started) {
+    $("h1").text("level " + level);
+    nextSequence();
+    started=true;
+    $(".start").fadeOut();
+  }
+ 
+});
 
 $(".btn").click(function () {
 
