@@ -6,4 +6,4 @@ then your level could be increased..
 
 for enjoy this game click the link below.
 
-https://simongame-ten.vercel.app/
+https://simongamea.vercel.app/
