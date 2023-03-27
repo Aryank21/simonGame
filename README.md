@@ -3,3 +3,7 @@
 
 while you click the previous pattern which appear automatically 
 then your level could be increased..
+
+for enjoy this game click the link below.
+
+https://vercel.com/aryank21/simongamea
